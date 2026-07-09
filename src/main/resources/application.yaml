@@ -3,9 +3,9 @@ spring:
     name: pnc-parcial-final-hotel
 
   datasource:
-    url: jdbc:postgresql://localhost:5432/hotel_db
+    url: jdbc:postgresql://localhost:5432/ParcialFinalNCapas
     username: ${DB_USERNAME:postgres}
-    password: ${DB_PASSWORD:postgres}
+    password: ${DB_PASSWORD:WMJM261202261202jm--}
     driver-class-name: org.postgresql.Driver
 
   jpa:
